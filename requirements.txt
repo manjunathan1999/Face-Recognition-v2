@@ -1,0 +1,6 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+insightface>=0.7.0
+onnxruntime>=1.10.0
+# Note: onnxruntime is the CPU-optimized version
+# For GPU support, use: onnxruntime-gpu>=1.10.0
